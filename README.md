@@ -18,7 +18,7 @@ management project dan tugas yang ada di dalam projek tersebut.
 - clone the project
 
 ```
-git clone
+git clone https://github.com/MuhamadAndre10/project-manager.git
 ```
 
 - install dependency
